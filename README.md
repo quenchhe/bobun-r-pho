@@ -7,4 +7,4 @@ It's a personal project unrelated to any academic assignement.
 - After picking the best model, I implemented a small program in Python to predict the images's label and made a GUI using Qt Designer.
 - Packed the whole program in an .exe using py-to-exe.
 
-![alt text](https://imgur.com/a/0gAwBE8)
+![GUI](https://i.imgur.com/3V4mjH4.png)
